@@ -93,7 +93,7 @@ const UserForm: React.FC = () => {
       </div>
 
       <div className="space-y-1">
-        <label className="block text-sm font-medium text-gray-700">דוא"ל</label>
+        <label className="block text-sm font-medium text-gray-700">דוא&quot;ל</label>
         <input
           type="email"
           name="email"
